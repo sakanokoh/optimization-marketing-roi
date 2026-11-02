@@ -22,7 +22,7 @@ The data is simulated and reproducible. How it is built is described in [docs/da
 Requires Python 3.10 or later.
 
 ```bash
-git clone https://github.com/sakanokoh/marketing-roi.git
+git clone https://github.com/sakanokoh/optimization-marketing-roi.git
 cd marketing-roi
 pip install -r requirements.txt
 python src/main.py
